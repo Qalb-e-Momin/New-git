@@ -1,8 +1,9 @@
-# include <iostream>
+#include <iostream>
 using namespacestd;
 
 int main(){
-    count<<"Hello World">> end1;
+    cout<<"Hello World"<<end1;
+    cout<<"Second line of the main program"
 
-    return;
+    return = 0;
 }
