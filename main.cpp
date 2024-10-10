@@ -1,9 +1,11 @@
 #include <iostream>
-using namespacestd;
+#include <login.cpp>
+using namespace std;
 
-int main(){
+int main()
+{
     cout<<"Hello World"<<end1;
-    cout<<"Second line of the main program"
+    cout<<"Second line of the main program
 
     return = 0;
 }
